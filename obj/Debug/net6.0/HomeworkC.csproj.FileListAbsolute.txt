@@ -1,0 +1,15 @@
+C:\Users\locadmin\Desktop\семинары\HomeworkC\obj\Debug\net6.0\HomeworkC.csproj.AssemblyReference.cache
+C:\Users\locadmin\Desktop\семинары\HomeworkC\obj\Debug\net6.0\HomeworkC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\locadmin\Desktop\семинары\HomeworkC\obj\Debug\net6.0\HomeworkC.AssemblyInfoInputs.cache
+C:\Users\locadmin\Desktop\семинары\HomeworkC\obj\Debug\net6.0\HomeworkC.AssemblyInfo.cs
+C:\Users\locadmin\Desktop\семинары\HomeworkC\obj\Debug\net6.0\HomeworkC.csproj.CoreCompileInputs.cache
+C:\Users\locadmin\Desktop\семинары\HomeworkC\bin\Debug\net6.0\HomeworkC.exe
+C:\Users\locadmin\Desktop\семинары\HomeworkC\bin\Debug\net6.0\HomeworkC.deps.json
+C:\Users\locadmin\Desktop\семинары\HomeworkC\bin\Debug\net6.0\HomeworkC.runtimeconfig.json
+C:\Users\locadmin\Desktop\семинары\HomeworkC\bin\Debug\net6.0\HomeworkC.dll
+C:\Users\locadmin\Desktop\семинары\HomeworkC\bin\Debug\net6.0\HomeworkC.pdb
+C:\Users\locadmin\Desktop\семинары\HomeworkC\obj\Debug\net6.0\HomeworkC.dll
+C:\Users\locadmin\Desktop\семинары\HomeworkC\obj\Debug\net6.0\refint\HomeworkC.dll
+C:\Users\locadmin\Desktop\семинары\HomeworkC\obj\Debug\net6.0\HomeworkC.pdb
+C:\Users\locadmin\Desktop\семинары\HomeworkC\obj\Debug\net6.0\HomeworkC.genruntimeconfig.cache
+C:\Users\locadmin\Desktop\семинары\HomeworkC\obj\Debug\net6.0\ref\HomeworkC.dll
